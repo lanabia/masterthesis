@@ -1,3 +1,32 @@
+Título: 	Cognitive impact evaluation of multimodal interfaces for people who are blind: Quali-quantitative review and guidelines.
+Título em inglês: 	Cognitive impact evaluation of multimodal interfaces for people who are blind: Quali-quantitative review and guidelines.
+Autor(es): 	Mesquita, Lana Beatriz Medeiros de
+Orientador(es): 	Macêdo, José Antonio Fernandes de
+Coorientador(es): 	Ilabaca, Jaime Hernán Sánchez
+Palavras-chave: 	Impact evaluation
+Cognitive evaluation
+Multimodal interfaces
+People who are blind
+Data do documento: 	2019
+Citação: 	MESQUITA, Lana Beatriz Medeiros de. Cognitive impact evaluation of multimodal interfaces for people who are blind: Quali-quantitative review and guidelines. 2019. 114 f. Dissertação (Mestrado em Ciência da Computação) - Universidade Federal do Ceará, Fortaleza, 2018.
+Resumo: 	A deficiência visual tem um grande impacto na qualidade de vida das pessoas. Embora existam muitas tecnologias para ajudar as pessoas cegas, a maioria delas não garante necessariamente a eficácia do uso pretendido. Como parte da pesquisa desenvolvida na Universidade do Chile desde 1994, investigamos as interfaces para pessoas cegas quanto ao impacto cognitivo, que inclui um amplo espectro do processo cognitivo. Neste trabalho, primeiramente, realizou-se uma Revisão Sistemática da literatura sobre a avaliação do impacto cognitivo de interfaces multimodais para pessoas cegas. Os critérios de seleção do estudo incluem artigos que apresentam tecnologias com interfaces multimodais para pessoas cegas e que usam algum método para avaliar o impacto cognitivo destas interfaces. Em seguida, os resultados da Revisão Sistemática da literatura foram relatados com o objetivo de compreender como o impacto cognitivo é avaliado atualmente quando se utiliza interfaces multimodais para pessoas que são cegas. Entre os quarenta e sete artigos recuperados da Revisão Sistemática, uma alta diversidade de experimentos foi encontrada. Alguns deles não apresentam os dados de resultados de forma clara e não aplicam um método estatístico para garantir as conclusões. Além disso, outros pontos relacionados aos experimentos foram analisados. Nota-se como conclusão que há uma necessidade de planejar melhor e apresentar os dados dos experimentos em tecnologias que focam no aprimoramento cognitivo de pessoas cegas. Além disso, este trabalho também apresentou uma análise qualitativa de dados baseada no método de Teoria Fundamentada nos Dados (Grounded Theory) para complementar e enriquecer os resultados da Revisão Sistemática. Finalmente, apresenta-se um conjunto de diretrizes para realizar experimentos de avaliação do impacto cognitivo em interfaces multimodais para pessoas que são cegas.
+Abstract: 	Visual disability has a major impact on people’s quality of life. Although there are many technologies to assist people who are blind, most of them do not necessarily guarantee the effectiveness of the intended use. As part of research developed at the University of Chile since 1994, we investigate the interfaces for people who are blind regarding a gap in cognitive impact, which include a broad spectrum of the cognitive process. In this work, first, a systematic literature review concerning the cognitive impact evaluation of multimodal interface for people who are blind was conducted. The study selection criteria include the papers which present technology with a multimodal interfaces for people who are blind that use a method to evaluate the cognitive impact of interfaces. Then, the results of the systematic literature review were reported with the purpose of understanding how the cognitive impact is currently evaluated when using multimodal interfaces for people who are blind. Among forty-seven papers retrieved from the systematic review, a high diversity of experiments was found. Some of them do not present the data results clearly and do not apply a statistical method to guarantee the results. Besides this, other points related to the experiments were analyzed. The conclusion was there is a need to better plan and present data from experiments on technologies for cognition of people who are blind. Moreover, this work also presented a data qualitative analysis based on the Grounded Theory based method to complement and enrich the systematic review results. Finally, a set of guidelines to conduct experiments concerning the cognitive impact evaluation of multimodal interfaces for people who are blind are presented.
+URI: 	http://www.repositorio.ufc.br/handle/riufc/40978
+Aparece nas coleções:	DCOMP - Dissertações defendidas na UFC
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------------------
+
+
+
+
+
+
 Para utilizar este template siga o tutorial disponível em: http://www.biblioteca.ufc.br/images/arquivos/instrucoes_modelos/tutorial_sharelatex.pdf
 
 # Útimas alterações
